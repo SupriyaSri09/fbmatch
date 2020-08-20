@@ -1,0 +1,3 @@
+/target/
+/deployment.yml
+/.gitlab-ci.yml
